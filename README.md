@@ -1,2 +1,2 @@
 # HalloweenCard-Mahjong
-Mahjong-like game 
+Mahjong-like game but scary
